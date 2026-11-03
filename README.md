@@ -1,6 +1,6 @@
 # The Ultimate Gaming Trivia Challenge
 
-A six-question gaming trivia website with a secret animated ring-box finale and an engagement photo gallery.
+A six-question gaming trivia website
 
 ## Run locally
 Extract the ZIP and open `index.html` in Chrome. No installation or server is required.
